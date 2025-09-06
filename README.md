@@ -1,9 +1,7 @@
 
 
 ## Project info
-**URL**: https://lovable.dev/projects/2892cd2d-7c16-47a5-a287-342606607a2a
-
-https://lovable.dev/projects/2892cd2d-7c16-47a5-a287-342606607a2a
+**URL**: [https://livedemo.com](https://lovable.dev/projects/2892cd2d-7c16-47a5-a287-342606607a2a)
 
 
 
