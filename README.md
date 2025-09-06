@@ -1,7 +1,8 @@
 
 
 ## Project info
-**URL**: [https://livedemo.com](https://lovable.dev/projects/2892cd2d-7c16-47a5-a287-342606607a2a)
+**URL**: 
+https://synergy-sphere-hackathon-27-kodf7t4kk-tanvis-projects-b37ce1ea.vercel.app/
 
 
 
